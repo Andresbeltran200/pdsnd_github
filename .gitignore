@@ -1,1 +1,11 @@
+# Ignore Chicago file
+chicago.csv
+
+# Ignore node_modules folder
+new_york_city.csv
+
+# Ignore node_modules folder
+washington.csv
+
+*.csv
 .github/**
