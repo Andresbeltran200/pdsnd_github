@@ -1,17 +1,19 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Created 02-08-2022
 
 ### Project Title
-Replace the Project Title
+Project Versión Control Udacity.
 
 ### Description
-Describe what your project is about and what it does
+This project seeking improve the skills and practical knowlege of version control.
 
 ### Files used
-Include the files used
+Used files of bikeshare that contain the principal code and three csv of information of chicago, New York and Washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Its Based in other authors.
 
+https://stackoverflow.com/questions/11828270/how-do-i-exit-vim
+https://udacity.github.io/git-styleguide/
